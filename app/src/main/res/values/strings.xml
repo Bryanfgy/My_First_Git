@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo My Second App</string>
+    <string name="ex4b_txt1">Welcome to Android!</string>
+    <string name="ex4b_btn1">Button 1</string>
+    <string name="ex4b_txt2">Large Text</string>
+    <string name="ex4b_btn2">Button 2</string>
+</resources>
